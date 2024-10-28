@@ -6,6 +6,6 @@ print(9.99>9.98 and 1000!=1000.1)
 print(2*2+2)
 print(2*(2+2))
 print((2*2+2)==(2*(2+2)))
-#4"4nd programm@
+#4"4nd programm"
 print(int(float("123.456")*10)%10)
 
